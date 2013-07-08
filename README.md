@@ -5,7 +5,7 @@ Yet Another Php Framework
 
 структура каталогов
 
-  -	your_application_name
+  -	your_application_name-
 		-	application/
 			-	controllers/
 			-	models/
